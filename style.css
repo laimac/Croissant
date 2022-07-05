@@ -1,0 +1,12 @@
+.croissant {
+  max-width: 90%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+h1 {
+  color: black;
+  font-weight: bold;
+  text-align: centered;
+}
