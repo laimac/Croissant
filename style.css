@@ -15,7 +15,7 @@ h1 {
   font-size: 30px;
 }
 
-.photo-body {
+body {
   background: #f8e8a6;
 }
 
@@ -24,4 +24,11 @@ h1 {
 }
 .footer:visited {
   color: green;
+}
+
+p {
+  padding: 30px 30px;
+  font-family: 'Times New Roman', Times, serif;
+  line-height: 18px;
+  text-align: center;
 }
