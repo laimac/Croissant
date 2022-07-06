@@ -8,5 +8,20 @@
 h1 {
   color: black;
   font-weight: bold;
-  text-align: centered;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 20px;
+  font-size: 30px;
+}
+
+.photo-body {
+  background: #f8e8a6;
+}
+
+.footer {
+  font-size: 14px;
+}
+.footer:visited {
+  color: green;
 }
